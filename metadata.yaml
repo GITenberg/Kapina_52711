@@ -1,5 +1,5 @@
 _repo: Kapina_52711
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Les Chouans. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1929
     gutenberg_agent_id: '8054'
     url: http://www.gutenberg.org/2009/agents/8054
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -25,6 +28,8 @@ creator:
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52711#Kapina
 gutenberg_issued: '2016-08-03'
 gutenberg_type: Text
 identifiers:
